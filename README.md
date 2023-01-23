@@ -1,4 +1,4 @@
-# Selection sort and Insertion sort
+# 4.Selection sort and Insertion sort
 ## Aim:
 To write a program to perform selection sort and insertion sort using python programming.
 ## Equipment’s required:
