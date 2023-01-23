@@ -63,9 +63,9 @@ print(list_of_nums)
 ```
 
 ## Output:
-i)![image](https://user-images.githubusercontent.com/118423842/213997513-5b74c753-4c23-4e52-b8e5-7fdd49b44f69.png)
+i) ![image](https://user-images.githubusercontent.com/118423842/213997513-5b74c753-4c23-4e52-b8e5-7fdd49b44f69.png)
 
-ii)![image](https://user-images.githubusercontent.com/118423842/213997596-d71d3255-1f63-410a-86b1-53f752126bf5.png)
+ii) ![image](https://user-images.githubusercontent.com/118423842/213997596-d71d3255-1f63-410a-86b1-53f752126bf5.png)
 
 
 ## Result:
