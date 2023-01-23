@@ -42,7 +42,9 @@ print(arr)
 
 ```
 ii)	#Insertion Sort
-'''
+```
+
+
 Program to sort the elements in the list using the Insertion Sort algorithm.
 Developed by: LOKESH RAHUL V V
 RegisterNumber: 22004702
@@ -59,6 +61,7 @@ def insertion_sort(nums):
 list_of_nums = eval(input())
 insertion_sort(list_of_nums)
 print(list_of_nums)
+```
 
 ## Output:
 i) ![image](https://user-images.githubusercontent.com/118423842/213997513-5b74c753-4c23-4e52-b8e5-7fdd49b44f69.png)
